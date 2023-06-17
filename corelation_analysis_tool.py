@@ -1,0 +1,1 @@
+# Create a tool that calculates correlation coefficients (e.g., Pearson correlation, Spearman correlation) between two variables in a dataset. Explore the relationship between variables and visualize the correlation using scatter plots.

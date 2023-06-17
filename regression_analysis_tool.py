@@ -1,0 +1,1 @@
+# Create a tool that performs simple linear regression or multiple linear regression analysis. Given a dataset, implement the algorithms to estimate regression coefficients, compute R-squared values, and visualize the regression line.

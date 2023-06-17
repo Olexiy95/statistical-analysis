@@ -1,0 +1,1 @@
+# Build a program that generates various types of plots and charts, such as histograms, bar charts, scatter plots, and box plots, to visualize and analyze data. Use libraries like Matplotlib or Seaborn to create the visualizations.

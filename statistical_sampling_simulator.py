@@ -1,0 +1,1 @@
+# Build a simulator that generates random samples from a population and performs statistical analysis on the samples. Explore concepts like sampling distributions, sample size determination, and the central limit theorem.

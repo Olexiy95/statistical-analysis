@@ -1,0 +1,1 @@
+# Develop a program that simulates hypothesis testing scenarios. Generate random datasets, compute test statistics (e.g., t-test, chi-square test), and compare the results to known critical values or p-values to determine statistical significance.
